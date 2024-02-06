@@ -1,3 +1,3 @@
 # blog
 
-Please read issues
+Please read [issues](https://github.com/BuilderCui/BuilderCui/issues)
